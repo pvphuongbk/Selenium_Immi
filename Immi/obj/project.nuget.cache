@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDIScttkU2sltDDgXwA/F4NnU8fBqrSSaRE28yHcT/o6l3N3+31TvEcdRvvxa/Bn0+Zl3OpZ1OG0SOfWsvJxsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrphu\\source\\repos\\Immi\\Immi\\Immi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrphu\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\mrphu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mrphu\\.nuget\\packages\\selenium.support\\4.9.1\\selenium.support.4.9.1.nupkg.sha512",
+    "C:\\Users\\mrphu\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
